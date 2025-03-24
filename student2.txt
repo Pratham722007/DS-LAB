@@ -1,4 +1,0 @@
-Alice, 102, Computer Science
-Bob, 101, Electrical
-Charlie, 104, Mechanical
-Alice, 100, Civil
