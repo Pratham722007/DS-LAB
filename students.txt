@@ -1,0 +1,5 @@
+1.pratham,1,ai
+2.saksham,2,cs
+3.prince,3,mech
+4.varshil,4,chem
+5.siddh,5,math
